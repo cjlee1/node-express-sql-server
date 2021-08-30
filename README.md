@@ -10,7 +10,7 @@
 
 ## Installation
 
-- `git clone git@github.com:cjlee1/node-express-sql-zru.git`
+- `git clone git@github.com:cjlee1/node-express-sql.git`
 - `cd node-express-postgresql-server`
 - `npm install`
 - `npm start`
